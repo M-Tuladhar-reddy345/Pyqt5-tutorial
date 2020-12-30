@@ -1,0 +1,4 @@
+C:/Users/Yogi/Desktop/pyqt5/test4.py
+C:/Users/Yogi/Desktop/openapptutorial/save.txt
+C:/Users/Yogi/Documents/web/youtube profile.png
+
